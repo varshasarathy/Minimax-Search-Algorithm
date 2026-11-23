@@ -1,5 +1,5 @@
 <h1>ExpNo 6 : Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
-<h3>Name:Varsha Sarathi M</h3>
+<h3>Name:Varsha Sarathi </h3>
 <h3>Register Number: 212223040233 </h3>
 <h3>Date:23-11-2026<h3>
 <H3>Aim:</H3>
